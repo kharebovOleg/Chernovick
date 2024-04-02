@@ -1,4 +1,4 @@
-package org.example.hexlet.Lyambdas;
+package org.example.hexlet.lyambdas;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,6 +1,5 @@
-package org.example.hexlet.Algoritms.Trees.KDTree;
+package org.example.hexlet.algoritms.trees.kdtree;
 
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;

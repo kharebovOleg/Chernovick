@@ -1,4 +1,4 @@
-package org.example.hexlet.Algoritms.Trees.KDTree;
+package org.example.hexlet.algoritms.trees.kdtree;
 
 import java.util.Map;
 

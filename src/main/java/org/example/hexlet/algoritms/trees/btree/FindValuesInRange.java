@@ -1,6 +1,4 @@
-package org.example.hexlet.Algoritms.Trees.BTree;
-
-import org.example.hexlet.Algoritms.Trees.BTree.BTreeNode;
+package org.example.hexlet.algoritms.trees.btree;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.example.hexlet.Algoritms.Trees.RBTree;
+package org.example.hexlet.algoritms.trees.rbtree;
 
 public class CountBlackNodesSolution {
     public static int countBlackNodes(RBTreeNode rbTreeNode) {

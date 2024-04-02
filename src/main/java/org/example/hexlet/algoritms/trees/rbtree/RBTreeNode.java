@@ -1,4 +1,4 @@
-package org.example.hexlet.Algoritms.Trees.RBTree;
+package org.example.hexlet.algoritms.trees.rbtree;
 
 public class RBTreeNode {
     public RBTreeNode left = null; // ссылка на левый дочерний узел

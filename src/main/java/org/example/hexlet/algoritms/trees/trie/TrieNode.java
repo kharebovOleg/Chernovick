@@ -1,4 +1,4 @@
-package org.example.hexlet.Algoritms.Trees.Trie;
+package org.example.hexlet.algoritms.trees.trie;
 
 import java.io.FileReader;
 import java.io.IOException;

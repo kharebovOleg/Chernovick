@@ -1,4 +1,4 @@
-package org.example.hexlet.Algoritms.Trees.BinaryTree;
+package org.example.hexlet.algoritms.trees.binarytree;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
